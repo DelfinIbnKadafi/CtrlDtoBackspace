@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Projects/C/CtrlDtoBackspace/resources/resource.h
+
+C:/Projects/C/CtrlDtoBackspace/resources/resource.rc
+winresrc.h
+-
+resource.h
+C:/Projects/C/CtrlDtoBackspace/resources/resource.h
+

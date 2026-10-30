@@ -1,0 +1,3 @@
+C:/Projects/C/CtrlDtoBackspace/build/CMakeFiles/CtrlDtoBackspace.dir
+C:/Projects/C/CtrlDtoBackspace/build/CMakeFiles/edit_cache.dir
+C:/Projects/C/CtrlDtoBackspace/build/CMakeFiles/rebuild_cache.dir
