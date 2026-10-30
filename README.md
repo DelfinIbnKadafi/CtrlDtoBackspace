@@ -1,7 +1,7 @@
 # CtrlDtoBackspace
 
 Small native Windows tray app. Press **CTRL + D** and Windows get **Backspace**.
-Good when your physical Backspace key is broken.
+Good when your physical Backspace key is broken. Cause my backspace is broken.
 
 - Windows 10 / 11, C++ with WinAPI only (no runtime, no framework)
 - No admin needed to run, no service, no network, no logging
